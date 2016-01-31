@@ -661,6 +661,7 @@ OptionMenu "VideoOptions"
 	Option "Vertical Sync",				"vid_vsync", "OnOff"
 	Option "Rendering Interpolation",	"cl_capfps", "OffOn"
 	Option "Column render mode",		"r_columnmethod", "ColumnMethods"
+	Option "Show FPS", "vid_fps",		"YesNo"
 
 	StaticText " "
 	Option "Screen wipe style",			"wipetype", "Wipes"
